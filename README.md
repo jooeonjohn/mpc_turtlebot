@@ -1,2 +1,2 @@
 # mpc_turtlebot
-ros2, turtlebot3
+ros2 humble, turtlebot3
